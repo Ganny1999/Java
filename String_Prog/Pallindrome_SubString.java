@@ -43,3 +43,14 @@ public class Pallindrome_SubString {
         }
     }
 }
+
+/*
+iNPUT :- abcc
+
+OUTPUT :-
+        a
+        b
+        c
+        cc
+        c
+*/
